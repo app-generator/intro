@@ -1,64 +1,94 @@
-# React, Vue [App Generator](https://appseed.us/) 
-AppSeed - The official repository
+# [App Generator](https://appseed.us/app-generator) and [Boilerplate code](https://appseed.us/boilerplate-code)  
 
-## What is AppSeed
-AppSeed is a Full-Stack **App Generator** that allows you to choose a visual theme and apply it on a full, but flexible, technology stack in just a few minutes, greatly improving development time from visual design to application deployment.
+We provide a full-stack [app generator](https://appseed.us/app-generator), pre-built React, Vue [Full-Stack Apps](https://appseed.us/apps/free), and [boilerplate code](https://appseed.us/boilerplate-code). AppSeed is used by 800+ registered developers and plays an active role in the [open-source](https://github.com/app-generator?tab=repositories) ecosystem.
 
-<hr>
+<br />
 
 ![AppSeed Intro](https://github.com/app-generator/appseed/blob/master/screenshots/appseed-intro.gif)
 
-<hr>
+<br />
 
-## Service Resources
-Build React, Vue appsin no-time.
-- React, Vue [App Generator](https://appseed.us/app-generator) - The app generator ships React, Vue frontends bundled with Express, Flask or Laravel in the backend. 
-- Pre-built apps - React, Vue, Flask Apps, GatsbyJS, Apps built with Bulma CSS
+## Built for developers
 
+Anyone, even without an account, can use AppSeed to [generate apps](https://appseed.us/app-generator) and code modern apps on top of our [boilerplates](https://appseed.us/boilerplate-code). The [official repository](https://github.com/app-generator?tab=repositories) contains more than 40 projects released under the MIT license.
 
-## [React Apps](https://appseed.us/apps/react)
-React Apps built by AppSeed
-- [Material Kit](https://www.creative-tim.com/product/material-kit) - the famous design from **Creative-Tim** combined with Flask, Laravel and Express
+<br />
 
-## [Vue Apps](https://appseed.us/apps/vuejs)
-Vue Apps built by AppSeed
-- [Argon Design](https://www.creative-tim.com/product/argon-design-system) - the famous design from **Creative-Tim** combined with Flask, Laravel and Express
+## [App Generator](https://appseed.us/app-generator)
 
-## Backend starters
-Stable and tested starters, enhanced with database, orm, JWT authenticatication.
-- Flask
-- Laravel
-- Node / Express
+**Generate** React, Vue full-stack apps in minutes. No registration required.
 
-## [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
-GatsbyJS Apps coded by AppSeed
-- [HTML5 Up Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension) - HTML5 Up Design
+<br />
 
-## [JAMstack Apps](https://appseed.us/apps/jamstack)
-JAMstack Apps coded by AppSeed
-- [Fractal](https://appseed.us/apps/jamstack/html5up-fractal) - HTML5 Up Design
-- [Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture) - HTML5 Up Design
-- [Landed](https://appseed.us/apps/jamstack/html5up-landed) - HTML5 Up Design
+## [Boilerplate Code](https://appseed.us/boilerplate-code)
 
-## [Bulma CSS Apps](https://appseed.us/apps/bulma-css)
-Apps made with Bulma CSS
-- [BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay) - AppSeed Design
-- [BulmaLanding](https://appseed.us/apps/bulma-css/bulmalanding) - AppSeed Design
+Stop reinventing the wheel and write code on top of tested **boilerplates**.
 
-## [Flask Apps](https://appseed.us/apps/bulma-css)
-Apps coded in Flask
-- [BulmaPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css) - HTML5 Up Design
-- [Solid State](https://appseed.us/apps/flask-apps/flask-solid-state) - HTML5 Up Design
-- [PhantomFlask](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask) - HTML5 Up Design
+<br />
 
+## Pre-built [Full-Stack Apps](https://appseed.us/apps/free)
 
-## [Support](https://appseed.us/support)
-Via [Discord](https://discord.gg/fZC6hup), [Facebook](https://www.facebook.com/groups/fullstack.apps.generator) and email ** support [ @ ] appseed.us 
+We provide more than 40 free apps & boilerplates, coded in modern technologies, actively supported and released under the MIT license.  
 
+<br />
+
+### [Admin Dashboards](https://appseed.us/admin-dashboards)
+
+Full-Stack Admin Dashboards with  modular design and a clean code-base.
+
+ - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+ - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)
+ - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
+ - [Flask Material Dashboard](https://github.com/app-generator/flask-material-dashboard)
+ - [Flask Now UI Dashboard](https://github.com/app-generator/flask-now-ui-dashboard)
+
+<br />
+
+### [JAMstack Apps](https://appseed.us/apps/jamstack)
+
+Modern, Blazing Fast Apps built in **JAMstack** patern.
+
+ - [JAMStack Landed](https://appseed.us/apps/jamstack/html5up-landed)
+ - [JAMStack Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture)
+ - [JAMStack Fractal](https://appseed.us/apps/jamstack/html5up-fractal)
+
+<br />
+
+### [Bulma CSS](https://appseed.us/apps/bulma-css)
+
+Open-source and Paid apps styled with Bulma. Code your next web application on top of boilerplate apps, styled with Bulma CSS. All apps (open-source or paid) includes tools, documentation and free Email support.
+
+ - [Bulma CSS FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
+ - [Bulma CSS Landing](https://appseed.us/apps/bulma-css/bulmalanding)
+ - [Bulma CSS BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
+ - [HR Management System](https://appseed.us/apps/bulma-css/hr-system-built-with-bulma-css) - Paid application
+
+<br />
+
+ ### [HTML5 Up Apps]
+ 
+ Pixel-perfect apps designed by **HTML5Up** agency.
+ 
+  - [Flask Phantom](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask)
+  - [Flask Solid State](https://appseed.us/apps/flask-apps/flask-solid-state)
+  - [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
+  
+### [Argon Design System](https://appseed.us/apps/argon-design-system)
+
+Full-Stack Apps built on top of **Argon Design**
+
+ - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
+ - [Flask Vuejs - Argon Design](https://appseed.us/apps/flask-apps/argon-design-system-creative-tim)
+ - [Laravel Vuejs - Argon Design](https://appseed.us/apps/vuejs/laravel/argon-design-system-creative-tim)
+ - [Express Vuejs - Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
+ 
+<br />
+
+## Support
+
+For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+
+<br />
 
 ---
-Provided by AppSeed App Generator
-
-
-
-
+[App Generator](https://appseed.us/app-generator) and [Boilerplate code](https://appseed.us/boilerplate-code) provided by **AppSeed**
