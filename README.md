@@ -22,7 +22,11 @@ Anyone, even without an account, can use AppSeed to [generate apps](https://apps
 
 ## [Boilerplate Code](https://appseed.us/boilerplate-code)
 
-Stop reinventing the wheel and write code on top of tested **boilerplates**.
+Stop reinventing the wheel and write code on top of tested **boilerplates**. 
+
+ - [Nodejs Starter](https://github.com/app-generator/nodejs-starter)
+ - [Laravel Boilerplate](https://github.com/app-generator/laravel-boilerplate)
+ - [Flask Boilerplate](https://github.com/app-generator/flask-boilerplate)
 
 <br />
 
