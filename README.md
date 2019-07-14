@@ -65,7 +65,7 @@ Open-source and Paid apps styled with Bulma. Code your next web application on t
 
 <br />
 
- ### [HTML5 Up Apps]
+ ### [HTML5 Up Apps](https://appseed.us/apps/html5up)
  
  Pixel-perfect apps designed by **HTML5Up** agency.
  
