@@ -5,6 +5,10 @@ We provide a full-stack [app generator](https://appseed.us/app-generator), and p
 
 <br />
 
+> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
+
+<br />
+
 ![AppSeed Intro](https://github.com/app-generator/appseed/blob/master/screenshots/appseed-intro.gif)
 
 <br />
