@@ -1,116 +1,62 @@
-# [App Generator](https://appseed.us/app-generator) and [Boilerplate code](https://appseed.us/boilerplate-code)  
+# [AppSeed - Web App Generator](https://appseed.us/app-generator)
 
-We provide a full-stack [app generator](https://appseed.us/app-generator), and pre-built [admin dashboards](https://appseed.us/admin-dashboards), [React](https://appseed.us/apps/react), [Vue](https://appseed.us/apps/vuejs) **Full-Stack** Apps, and [boilerplate code](https://appseed.us/boilerplate-code). 
-**AppSeed** is used by 800+ registered developers and plays an active role in the [open-source](https://github.com/app-generator?tab=repositories) ecosystem.
+**AppSeed** is a platform that uses in-house developed **automation tools** to help developers and web agencies: 
 
-<br />
-
-> Enjoy this project? **Join our efforts** to actively support the open-source ecosystem via a **[PayPal.me donation](https://paypal.me/appseed)**. Thank you!
+- **Developers** - use our tested UI-Ready starters to code faster their products
+- **Web Agencies** - increase their income and diversify their product portfolio. AppSeed migrate flat UI-Kit to many technologies and patterns: [Admin Dashboards](https://appseed.us/admin-dashboards), Modern [SSG Starters](https://appseed.us/static-site), JAMstack. 
 
 <br />
 
-![AppSeed Intro](https://github.com/app-generator/appseed/blob/master/screenshots/appseed-intro.gif)
+## Services and Products
+
+- Visual [Web App Generator](https://appseed.us/app-generator) - Generate React, Vue full-stack web apps in minutes.
+- Pre-Built Web Apps: **admin dashboards**, **JAMstack starters**, **SSG Starters**
+- Free Support via Github and eMail < **support@appseed.us** >
+- Paid **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
 <br />
 
-## Built for developers
+## [Partners](https://appseed.us/partners) 
 
-Anyone, even **without an account**, can use AppSeed to [generate apps](https://appseed.us/app-generator) and code modern apps on top of our [boilerplates](https://appseed.us/boilerplate-code). The [official repository](https://github.com/app-generator?tab=repositories) contains more than 40 projects released under the MIT license.
-
-<br />
-
-## [App Generator](https://appseed.us/app-generator)
-
-[Generate Full-Stack React, Vue](https://appseed.us/app-generator) applications with **Express**, **Laravel** and **Flask** in the backend with a common set of features: [Two Tier Architecture](https://docs.appseed.us/what-is/two-tier-architecture/), [JWT Token authentication](https://jwt.io/introduction/), Usable UI (Login, Registration), SQLite / MySql database, ORM, basic tooling and helpers. 
+As mentioned, AppSeed used the automation tools (in-house development) to migrate UI Kits to many technologies and patterns. Companies that use our services, optionally can list their new products on our maretplace. 
 
 <br />
 
-## [Boilerplate Code](https://appseed.us/boilerplate-code)
-
-Stop reinventing the wheel and write code on top of tested **boilerplates**. 
-
- - [Nodejs Starter](https://github.com/app-generator/nodejs-starter)
- - [Laravel Boilerplate](https://github.com/app-generator/laravel-boilerplate)
- - [Flask Boilerplate](https://github.com/app-generator/flask-boilerplate)
-
-<br />
-
-## Pre-built [Free Apps](https://appseed.us/apps/free)
-
-We provide more than 40 free apps & boilerplates, coded in modern technologies, actively supported and released under the MIT license.  
-
-<br />
-
-### Full-Stack Apps
-
- - [React Express with Material Design](https://github.com/app-generator/fullstack-react-express-material-design)
- - [Laravel React with Material Design](https://github.com/app-generator/fullstack-laravel-react-material-design)
- - [Flask React with Material Design](https://github.com/app-generator/fullstack-flask-react-material-design)
- - [Express Vue with Argon Design](https://github.com/app-generator/fullstack-express-vuejs-argon-design)
- - [Flask Vue with Argon Design](https://github.com/app-generator/fullstack-flask-vuejs-argon-design)
- - [Laravel Vue with Argon Design](https://github.com/app-generator/fullstack-laravel-vuejs-argon-design)
-
-<br />
-
-### [Admin Dashboards](https://appseed.us/admin-dashboards)
-
-Full-Stack [admin dashboards](https://appseed.us/admin-dashboards) with  modular design and a clean code-base.
-
- - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
- - [Flask Dashboard Light](https://appseed.us/admin-dashboards/flask-dashboard-light-bootstrap)
- - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
- - [Flask Material Dashboard](https://github.com/app-generator/flask-material-dashboard)
- - [Flask Now UI Dashboard](https://github.com/app-generator/flask-now-ui-dashboard)
-
-<br />
-
-### [JAMstack Apps](https://appseed.us/apps/jamstack)
-
-Modern, Blazing Fast Apps built in **JAMstack** patern.
-
- - [JAMStack Landed](https://appseed.us/apps/jamstack/html5up-landed)
- - [JAMStack Big Picture](https://appseed.us/apps/jamstack/html5up-big-picture)
- - [JAMStack Fractal](https://appseed.us/apps/jamstack/html5up-fractal)
-
-<br />
-
-### [Bulma CSS](https://appseed.us/apps/bulma-css)
-
-Open-source and Paid apps styled with Bulma. Code your next web application on top of boilerplate apps, styled with Bulma CSS. All apps (open-source or paid) includes tools, documentation and free Email support.
-
- - [Bulma CSS FlaskPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
- - [Bulma CSS Landing](https://appseed.us/apps/bulma-css/bulmalanding)
- - [Bulma CSS BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
- - [HR Management System](https://appseed.us/apps/bulma-css/hr-system-built-with-bulma-css) - Paid application
-
-<br />
-
- ### [HTML5 Up Apps](https://appseed.us/apps/html5up)
- 
- Pixel-perfect apps designed by **HTML5Up** agency.
- 
-  - [Flask Phantom](https://appseed.us/apps/flask-apps/html5up-phantom-coded-in-flask)
-  - [Flask Solid State](https://appseed.us/apps/flask-apps/flask-solid-state)
-  - [GatsbyJS Dimension](https://appseed.us/apps/gatsbyjs/html5up-dimension)
-
-<br />
-
-### [Argon Design System](https://appseed.us/apps/argon-design-system)
-
-Full-Stack Apps built on top of **Argon Design**
-
- - [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon)
- - [Flask Vuejs - Argon Design](https://appseed.us/apps/flask-apps/argon-design-system-creative-tim)
- - [Laravel Vuejs - Argon Design](https://appseed.us/apps/vuejs/laravel/argon-design-system-creative-tim)
- - [Express Vuejs - Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim)
+<center>
+![AppSeed Partners - Creative-Tim, BootstrapDash, CssNinja, ThemeKita](https://appseed.us/static/partners/appseed-partners-top-image.png)
+</center>
  
 <br />
 
-## Support
+### [Creative-Tim](https://www.creative-tim.com/?ref=appseed)
 
-For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+Common products, generated by the AppSeed platform, listed in the marketplace: 
+
+- [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - [LIVE Demo](https://flask-dashboard-black.appseed.us/login) 
+- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) - [LIVE Demo](https://flask-dashboard-black.appseed.us/login) 
+
+<br />
+
+### [BootstrapDash](https://www.bootstrapdash.com/?ref=appseed)
+
+Common products, generated by the AppSeed platform, listed in the marketplace: 
+
+- [Flask StarAdmin Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-black-pro) - [LIVE Demo](https://flask-dashboard-staradmin-black-pro.appseed.us/) 
+- [Flask StarAdmin PRO](https://appseed.us/admin-dashboards/flask-dashboard-staradmin-pro) - [LIVE Demo](https://flask-dashboard-staradmin-pro.appseed.us/) 
+
+<br />
+
+## Pre-Built Web Apps
+
+UI-ready starters, balances 75% as free projects released under permissive licenses (MIT, LGPL)
+
+- [Admin Dashboards](https://appseed.us/admin-dashboards) - coded in [Flask](https://appseed.us/admin-dashboards/flask), [Django](https://appseed.us/admin-dashboards/django), NodeJs (soon)
+- [Static Sites](https://appseed.us/static-site) - coded on top of popular SSG (11ty)
+- [JAMstack Apps](https://appseed.us/apps/jamstack) - free and commercial starters generated on top of Html5Up, Creative-Tim UI Kits
+- [Flask Apps](https://appseed.us/apps/flask-apps) - UI-ready apps, coded in **Flask** with basic modules and deployment scripts
+- [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs) - free & paid starters coded in **GatsbyJS**
 
 <br />
 
 ---
-[App Generator](https://appseed.us/app-generator) and [Boilerplate code](https://appseed.us/boilerplate-code) provided by **AppSeed**
+AppSeed [Web App Generator](https://appseed.us/app-generator) - Built for developers
