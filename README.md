@@ -24,7 +24,7 @@ As mentioned, AppSeed used the automation tools (in-house development) to migrat
 
 <center>
 
-![AppSeed Partners - Creative-Tim, BootstrapDash, CssNinja, ThemeKita](https://appseed.us/static/partners/appseed-partners-top-image.png)
+[![AppSeed Partners - Creative-Tim, BootstrapDash, CssNinja, ThemeKita](https://appseed.us/static/partners/appseed-partners-top-image.png)](https://appseed.us/partners)
  
 </center>
  
