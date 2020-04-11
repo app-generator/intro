@@ -16,6 +16,11 @@
 
 <br />
 
+## AppSeed - read more
+
+- [Web App Generator](https://dev.to/sm0ke/web-app-generator-the-technology-agnostic-way-36k4) - The technology-agnostic way
+- [AppSeed Web App Generator](https://medium.com/@appseed.us/appseed-app-generator-code-how-it-works-60b9c3e0dd04) - Code Less, Live more
+
 ## [Partners](https://appseed.us/partners) 
 
 As mentioned, AppSeed used the automation tools (in-house development) to migrate UI Kits to many technologies and patterns. Companies that use our services, optionally can list their new products on our maretplace. 
