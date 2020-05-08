@@ -91,5 +91,6 @@ UI-ready starters, balances 75% as free projects released under permissive licen
 > Interested to work with us? Send an email via **support@appseed.us** or chat LIVE on [Discord](https://discord.gg/fZC6hup). Thank you! 
 
 <br />
+
 ---
 AppSeed [Web App Generator](https://appseed.us/app-generator) - Built for developers
