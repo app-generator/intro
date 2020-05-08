@@ -16,10 +16,12 @@
 
 <br />
 
-## AppSeed - read more
+## In the media
 
 - [Web App Generator](https://dev.to/sm0ke/web-app-generator-the-technology-agnostic-way-36k4) - The technology-agnostic way
 - [AppSeed Web App Generator](https://medium.com/@appseed.us/appseed-app-generator-code-how-it-works-60b9c3e0dd04) - Code Less, Live more
+
+<br />
 
 ## [Partners](https://appseed.us/partners) 
 
