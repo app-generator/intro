@@ -20,44 +20,9 @@
 
 AppSeed is using UI Kits provided by other vendors and we are usually providing the end-products under the following licenses: 
 
-### MIT License
-
-Permissions granted: 
-- Copy, modify and sale the end-product
-- Remove footer links to AppSeed
-- Use for unlimited hobby/personal projects
-- Use for unlimited commercial projects
-- Use for projects with paying users
-
-Forbidden actions:
-- Remove the copyright information from the source code 
-
-### Personal License
-
-Permissions granted: 
-- Use the end-product media files for print 
-- Create a single personal website/app
-- Create a single website/app for a client
-- Create a single website/app for **NON-PAYING end-users**
-
-Forbidden actions:
-- Create multiple website/apps for clients
-- Create a SaaS application
-- Create websites/apps with **PAYING end-users**
-- Product resale 
-
-### Developer License
-
-Permissions granted: 
-- Use the end-product media files for print 
-- Create multiple website/apps for clients with **NON-PAYING end-users**
-- Create a single website/app for **PAYING end-users**   
-- Create a single SaaS application   
-
-Forbidden actions:
-- Create multiple SaaS applications
-- Create multiple website/apps for clients with **PAYING end-users**
-- Product resale 
+- [MIT License](https://github.com/app-generator/license-mit)
+- [Personal License](https://github.com/app-generator/license-personal)
+- [Developer License](https://github.com/app-generator/license-developer)
 
 <br />
 
