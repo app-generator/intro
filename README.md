@@ -1,6 +1,6 @@
 # [AppSeed](https://appseed.us/?ref=gh)
 
-> Deliver your projects faster
+> Deliver your projects faster - A platform built for developers.
 
 ---
 
