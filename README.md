@@ -33,7 +33,7 @@ AppSeed is using UI Kits provided by other vendors and we are usually providing 
 
 <br />
 
-## [Partners](https://appseed.us/partners) 
+## [Partners](https://appseed.us/agency?ref=gh) 
 
 As mentioned, AppSeed used the automation tools (in-house development) to migrate UI Kits to many technologies and patterns. Companies that use our services, optionally can list their new products on our maretplace. 
 
