@@ -1,9 +1,5 @@
 # [AppSeed](https://appseed.us/?ref=gh)
 
-> Deliver your projects faster - A platform built for developers.
-
----
-
 **AppSeed** is a platform that uses in-house developed **automation tools** to help developers and web agencies: 
 
 - **Developers** - use our tested UI-Ready starters to code faster their products
