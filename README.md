@@ -1,15 +1,15 @@
 # [AppSeed](https://appseed.us/?ref=gh)
 
-**AppSeed** is a platform that uses in-house developed **automation tools** to help developers and web agencies: 
+**AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/app-generator)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA.
 
 - **Developers** - use our tested UI-Ready starters to code faster their products
-- **Web Agencies** - increase their income and diversify their product portfolio. AppSeed migrate flat UI-Kit to many technologies and patterns: [Admin Dashboards](https://appseed.us/admin-dashboards), [Flask Apps](https://appseed.us/apps/flask-apps), Modern [SSG Starters](https://appseed.us/static-site), [JAMstack](https://appseed.us/apps/jamstack).
+- **Web Agencies** - increase their income and diversify their product portfolio
 
 <br />
 
 ## Services and Products
 
-- Visual [Web App Generator](https://appseed.us/app-generator) - Generate React, Vue full-stack web apps in minutes.
+- (**NOT Stable**) Visual [App Generator](https://appseed.us/app-generator) generates React, Vue full-stack web apps in minutes.
 - Pre-Built Web Apps: **admin dashboards**, **JAMstack starters**, **SSG Starters**
 - Free Support via Github and eMail < **support@appseed.us** >
 - Paid **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
@@ -105,4 +105,4 @@ UI-ready starters, balances 75% as free projects released under permissive licen
 <br />
 
 ---
-AppSeed [Web App Generator](https://appseed.us/app-generator) - Built for developers
+AppSeed [App Generator](https://appseed.us/app-generator) - Built for developers
