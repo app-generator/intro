@@ -1,9 +1,9 @@
 # AppSeed App Generator
 
-**AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/app-generator)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA.
+**AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/app-generator)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. Our users: 
 
 - **Developers** - use our tested UI-Ready starters to code faster their products
-- **Web Agencies** - increase their income and diversify their product portfolio
+- **Web Agencies** and [partners](https://appseed.us/partners) that use our technology: [Creative-Tim](https://appseed.us/agency/creative-tim), [CodedThemes](https://appseed.us/agency/codedthemes), [Themesberg](https://appseed.us/agency/themesberg), [BootstrapDash](https://appseed.us/agency/bootstrapdash).
 
 <br />
 
@@ -11,8 +11,8 @@
 
 - (**NOT Stable**) Visual [App Generator](https://appseed.us/app-generator) generates React, Vue full-stack web apps in minutes.
 - Pre-Built Web Apps: **admin dashboards**, **JAMstack starters**, **SSG Starters**
-- Free Support via Github and eMail < **support@appseed.us** >
-- Paid **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+- Support via Github (issues tracker) and eMail < **support@appseed.us** >
+- **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup) - 800+ community
 
 <br />
 
