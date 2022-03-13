@@ -4,7 +4,7 @@
 
 > Our users: 
 
-- **3000+ Registered Developers** - use our tested UI-Ready starters to code faster their products
+- **4000+ Registered Developers** - use our tested UI-Ready starters to code faster their products
 - **[Partners](https://appseed.us/partners)** that use our technology: [Creative-Tim](https://appseed.us/agency/creative-tim), [CodedThemes](https://appseed.us/agency/codedthemes), [Themesberg](https://appseed.us/agency/themesberg), [BootstrapDash](https://appseed.us/agency/bootstrapdash).
 
 <br />
