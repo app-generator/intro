@@ -20,7 +20,7 @@
 
 <br />
 
-![AppSeed - App Generator for Flask, Django, React and Vue starters](https://user-images.githubusercontent.com/51070104/167167545-cdb674ca-4f69-4abb-a721-3b6da72669c8.png)
+![AppSeed - App Generator for Flask, Django, React and Vue starters](https://user-images.githubusercontent.com/51070104/167298122-83503a82-2f16-409b-bb2f-da6c550d48bb.gif)
 
 <br />
 
