@@ -4,16 +4,16 @@
 
 <br />
 
-> Current Version: **v0.0.8**
+> `Version` **v0.0.8** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
 
 - Integrated UI Kits
-  - Datta Able
-  - Volt Dashboard
-  - Soft UI Design
-  - AdminLTE 
+  - [Datta Able](https://appseed.us/generator/datta-able/)
+  - [Volt Dashboard](https://appseed.us/generator/volt-dashboard/)
+  - [Soft UI Design](https://appseed.us/generator/soft-ui-dashboard/)
+  - [AdminLTE](https://appseed.us/generator/adminlte/)
 - Frameworks:
-  - Flask 
-  - Django
+  - `Flask` 
+  - `Django`
 - Latest Generated Products:
   - **[Flask Datta Able](https://github.com/appseed-projects/b830e9ba-c70d-4514-b01c-3b09e5533e95)** - `MySql` Persistence, `Docker`
   - **[Flask AdminLTE](https://github.com/appseed-projects/df983459-ae8e-424b-b04b-30f9af8f597a)** - `Docker`, `No Database`  
