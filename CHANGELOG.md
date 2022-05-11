@@ -14,7 +14,7 @@
 ### Improvements
 
 - AdminLTE Working
-  - Jinjs / Flask & Django 
+  - `Jinja` / `Flask` & `Django` 
 - Code is saved in GH
 
 ## [0.0.6] 2022-03-05
