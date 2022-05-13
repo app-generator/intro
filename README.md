@@ -4,13 +4,13 @@
 
 <br />
 
-> `Version` **v0.0.8** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
+> `Version` **v0.0.10** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
 
 - Integrated UI Kits
+  - [Material Kit](https://appseed.us/generator/material-kit/)
   - [Datta Able](https://appseed.us/generator/datta-able/)
   - [Volt Dashboard](https://appseed.us/generator/volt-dashboard/)
   - [Soft UI Design](https://appseed.us/generator/soft-ui-dashboard/)
-  - [AdminLTE](https://appseed.us/generator/adminlte/)
 - Frameworks:
   - `Flask` 
   - `Django`
