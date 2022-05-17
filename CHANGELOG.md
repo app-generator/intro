@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.11] 2022-05-17
+### Improvements
+
+- Integrate `Star Admin`
+
 ## [0.0.10] 2022-05-11
 ### Improvements
 
