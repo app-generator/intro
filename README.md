@@ -7,6 +7,7 @@
 > `Version` **v0.0.10** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
 
 - Integrated UI Kits
+  - [Star Admin](https://appseed.us/generator/star-admin/)
   - [Material Kit](https://appseed.us/generator/material-kit/)
   - [Datta Able](https://appseed.us/generator/datta-able/)
   - [Volt Dashboard](https://appseed.us/generator/volt-dashboard/)
