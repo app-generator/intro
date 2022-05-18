@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.0.14] 2022-05-18
+### Improvements
+
+- Sources are ZIPped
+  - available for instant download
+- Added Redirects into generated `apps` folder  
+
 ## [0.0.13] 2022-05-18
 ### Improvements
 
