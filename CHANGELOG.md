@@ -1,5 +1,16 @@
 # Change Log
 
+## [0.0.17] 2022-05-20
+### Improvements
+
+- READMEs update (all products)
+- Generator - Improve Error Checking 
+
+## [0.0.16] 2022-05-20
+### Improvements
+
+- Integrate `Black Dashboard`
+
 ## [0.0.15] 2022-05-19
 ### Improvements
 
