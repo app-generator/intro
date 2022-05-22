@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.0.18] 2022-05-22
+### Improvements
+
+- Patch `MVC Django` DB Settings
+
 ## [0.0.17] 2022-05-20
 ### Improvements
 
