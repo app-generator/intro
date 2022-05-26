@@ -1,5 +1,14 @@
 # Change Log
 
+## [0.0.22] 2022-05-26
+### Improvements
+
+- Added `Datta Able PRO`
+  - CDN Support
+- `Support PRO Themes` management
+- `Jinja` updates deps (safe installation)
+- `Flask` updates deps (safe installation)
+
 ## [0.0.21] 2022-05-26
 ### Improvements & Fixes
 
