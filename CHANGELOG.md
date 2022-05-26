@@ -1,5 +1,42 @@
 # Change Log
 
+## [0.0.21] 2022-05-26
+### Improvements & Fixes
+
+- Docker port is now `5085` (old one was `85`)
+  - All starters  
+- `.env` files - Update `ASSETS_ROOT` syntax
+  - remove the comment
+- Django Kits
+  - Remove Unipath Dependency (not compiling on Ubuntu)
+  - Fallback to `3.2.13` 
+    - for a larger cross-platform compatibility
+- Flask Kits
+  - Fallback to `WTForms==3.0.0 (larger cross-platform compatibility)
+
+## [0.0.20] 2022-05-24
+### Improvements & Fixes
+
+- Fixes
+  - `Volt Dashboard` - Jinja Template Folder
+  - CDN Path for `Jinja/Flask` was broken 
+
+## [0.0.19] 2022-05-24
+### Improvements & Fixes 
+
+- ALL Kits Migrated to support CDN
+  - Jinja
+  - Flask
+  - Django
+- Django Codebase Improvements
+  - Added CDN Support
+- Flask Codebase Improvements
+  - Added CDN Support
+- Jinja Codebase Improvements
+  - Codebase refactoring
+  - Added CDN Support
+- UI Update: Soft UI Dashboard 1.0.5
+
 ## [0.0.18] 2022-05-22
 ### Improvements
 
