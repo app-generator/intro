@@ -12,7 +12,7 @@
   - Fallback to `3.2.13` 
     - for a larger cross-platform compatibility
 - Flask Kits
-  - Fallback to `WTForms==3.0.0 (larger cross-platform compatibility)
+  - Fallback to `WTForms==3.0.0` (larger cross-platform compatibility)
 
 ## [0.0.20] 2022-05-24
 ### Improvements & Fixes
