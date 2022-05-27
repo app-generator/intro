@@ -1,5 +1,17 @@
 # Change Log
 
+## [0.0.23] 2022-05-27
+### Improvements
+
+- Improved Docker (all related starters)
+  - Integrate [pull request](https://github.com/app-generator/django-volt-dashboard/pull/8) by [Stephan Klinger](https://github.com/staeff)
+- Jinja/Flask
+  - Enable page compression for `Production`
+- `Django Volt` 
+  - Improved Auth UX
+- `Flask Volt` 
+  - Improved Auth UX
+
 ## [0.0.22] 2022-05-26
 ### Improvements
 
