@@ -17,7 +17,7 @@
 
 All generated kits can be easily deployed on Render in just a few minutes. 
 
-[![Go LIVE with Full-Stack projects ...fast - AppSeed.](https://user-images.githubusercontent.com/51070104/201458691-6360d1e6-c16c-4a59-aff8-89a4c0c4d594.jpg)](https://www.youtube.com/watch?v=1D0bmG19OE0)
+[![Go LIVE with Full-Stack projects ...fast - AppSeed.](https://user-images.githubusercontent.com/51070104/201459136-422e163c-e1a7-4eb1-a9a0-b1a7d7cc201e.jpg)](https://www.youtube.com/watch?v=1D0bmG19OE0)
 
 <br />
 
@@ -37,7 +37,7 @@ All generated kits can be easily deployed on Render in just a few minutes.
 - 👉 [Discord](https://discord.gg/fZC6hup) `announcements` channel
 - 👉 [Twitter](https://twitter.com/webappseed) (official account) 
 
-[![black-friday-2022-cover](https://user-images.githubusercontent.com/51070104/201459042-7413141e-d79f-4884-b3b5-5c3151b8eb85.jpg)](https://blog.appseed.us/black-friday-2022-vote-your-discount/)
+[![black-friday-2022-cover](https://user-images.githubusercontent.com/51070104/201459148-7561df9f-0a7d-4d1a-bf44-a1ac5e89c175.jpg)](https://blog.appseed.us/black-friday-2022-vote-your-discount/)
 
 <br />
 
