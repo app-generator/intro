@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.0] 2022-11-12
+### Improvements
+
+- Flag STABLE version
+- Kits deployable on Render
+
 ## [0.0.23] 2022-05-27
 ### Improvements
 
