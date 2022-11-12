@@ -9,9 +9,7 @@
 - 👉 [Soft Dashboard](https://appseed.us/generator/soft-ui-dashboard/)
 - 👉 [Material Kit](https://appseed.us/generator/material-kit/)
 - 👉 [Datta Able](https://appseed.us/generator/datta-able/)
-- 👉 **React Kits**:
-  - [Horizon UI](https://appseed.us/generator/react/horizon-ui/)
-  - [Berry MUI Design](https://appseed.us/generator/react/berry-dashboard/)
+- 👉 **React Kits**: [Horizon UI](https://appseed.us/generator/react/horizon-ui/), [Berry MUI Design](https://appseed.us/generator/react/berry-dashboard/)
 
 <br />
 
