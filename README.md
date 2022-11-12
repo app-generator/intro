@@ -1,4 +1,4 @@
-# [AppSeed Generator](https://appseed.us/generator/)
+# [AppSeed](https://appseed.us/) `Generator`
 
 **AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/generator/)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. 
 
