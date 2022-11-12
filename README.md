@@ -4,44 +4,31 @@
 
 <br />
 
-> `Version` **v0.0.10** - Full [CHANGELOG](https://github.com/app-generator/app-generator/blob/master/CHANGELOG.md)
+> Integrated UI Kits
 
-- Integrated UI Kits
-  - [Material Dashboard](https://appseed.us/generator/material-dashboard/)
-  - [Star Admin](https://appseed.us/generator/star-admin/)
-  - [Material Kit](https://appseed.us/generator/material-kit/)
-  - [Datta Able](https://appseed.us/generator/datta-able/)
-  - [Volt Dashboard](https://appseed.us/generator/volt-dashboard/)
-  - [Soft UI Design](https://appseed.us/generator/soft-ui-dashboard/)
-- Frameworks:
-  - `Flask` 
-  - `Django`
-- Latest Generated Products:
-  - **[Flask Datta Able](https://github.com/appseed-projects/b830e9ba-c70d-4514-b01c-3b09e5533e95)** - `MySql` Persistence, `Docker`
-  - **[Flask AdminLTE](https://github.com/appseed-projects/df983459-ae8e-424b-b04b-30f9af8f597a)** - `Docker`, `No Database`  
+- 👉 [Soft Dashboard](https://appseed.us/generator/soft-ui-dashboard/)
+- 👉 [Material Kit](https://appseed.us/generator/material-kit/)
+- 👉 [Datta Able](https://appseed.us/generator/datta-able/)
+- 👉 **React Kits**:
+  - [Horizon UI](https://appseed.us/generator/react/horizon-ui/)
+  - [Berry MUI Design](https://appseed.us/generator/react/berry-dashboard/)
 
 <br />
 
-![AppSeed - App Generator for Flask, Django, React and Vue starters](https://user-images.githubusercontent.com/51070104/167298122-83503a82-2f16-409b-bb2f-da6c550d48bb.gif)
+## Video Presentation
+
+All generated kits can be easily deployed on Render in just a few minutes. 
+
+[![Go LIVE with Full-Stack projects ...fast - AppSeed.](https://user-images.githubusercontent.com/51070104/201458691-6360d1e6-c16c-4a59-aff8-89a4c0c4d594.jpg)](https://www.youtube.com/watch?v=1D0bmG19OE0)
 
 <br />
 
 ## Services and Products
 
 - Visual [App Generator](https://appseed.us/generator/) generates React, Vue full-stack web apps in minutes.
-- Pre-Built Web Apps: **admin dashboards**, **JAMstack starters**, **SSG Starters**
-- Support via Github (issues tracker) and eMail < **support@appseed.us** >
-- **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup) - 1k+ community
-
-<br />
-
-## Licensing 
-
-AppSeed is using UI Kits provided by other vendors and we are usually providing the end-products under the following licenses: 
-
-- [MIT License](https://github.com/app-generator/license-mit)
-- [Personal License](https://github.com/app-generator/license-personal)
-- [Developer License](https://github.com/app-generator/license-developer)
+- [Developer tools](https://appseed.us/developer-tools/): dynamic services and API generators
+- Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) and [apps](https://appseed.us/apps/)
+- Free [Support](https://appseed.us) via Email and Discord (`registered users`)
 
 <br />
 
