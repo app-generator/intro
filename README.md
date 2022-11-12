@@ -30,5 +30,16 @@ All generated kits can be easily deployed on Render in just a few minutes.
 
 <br />
 
+## `PROMO` [Black Friday 2022](https://blog.appseed.us/black-friday-2022-vote-your-discount/)
+
+> This [campaign](https://blog.appseed.us/black-friday-2022-vote-your-discount/) starts on `15-NOV` and the users are able to `vote their discount`: **50, 60, 70%**: 
+
+- 👉 [Discord](https://discord.gg/fZC6hup) `announcements` channel
+- 👉 [Twitter](https://twitter.com/webappseed) (official account) 
+
+[![black-friday-2022-cover](https://user-images.githubusercontent.com/51070104/201459042-7413141e-d79f-4884-b3b5-5c3151b8eb85.jpg)](https://blog.appseed.us/black-friday-2022-vote-your-discount/)
+
+<br />
+
 ---
 [AppSeed Generator](https://appseed.us/generator/) - Built for developers 
