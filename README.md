@@ -32,9 +32,7 @@ All generated kits can be easily deployed on Render in just a few minutes.
 
 ## [Black Friday 2022](https://appseed.us) - `75%OFF`
 
-> Campaign duration `15-30.NOV`
-
-This [campaign](https://blog.appseed.us/black-friday-2022-vote-your-discount/) starts on `15-NOV` and the users are able to `vote their discount`: **50, 60, 70%**: 
+> The campaign is active until `30.NOV` and applies to all products and licenses.
 
 [![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
 
