@@ -13,11 +13,11 @@
 
 <br />
 
-## Video Presentation
+## [Black Friday 2022](https://appseed.us) - `75%OFF`
 
-All generated kits can be easily deployed on Render in just a few minutes. 
+> The campaign is active until `30.NOV` and applies to all products and licenses.
 
-[![Go LIVE with Full-Stack projects ...fast - AppSeed.](https://user-images.githubusercontent.com/51070104/201459136-422e163c-e1a7-4eb1-a9a0-b1a7d7cc201e.jpg)](https://www.youtube.com/watch?v=1D0bmG19OE0)
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
 
 <br />
 
@@ -27,14 +27,6 @@ All generated kits can be easily deployed on Render in just a few minutes.
 - [Developer tools](https://appseed.us/developer-tools/): dynamic services and API generators
 - Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) and [apps](https://appseed.us/apps/)
 - Free [Support](https://appseed.us) via Email and Discord (`registered users`)
-
-<br />
-
-## [Black Friday 2022](https://appseed.us) - `75%OFF`
-
-> The campaign is active until `30.NOV` and applies to all products and licenses.
-
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
 
 <br />
 
