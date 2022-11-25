@@ -8,7 +8,7 @@
 
 <br />
 
-## `About` 
+## [About](https://appseed.us/about/) 
 
 **AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. 
 
@@ -20,7 +20,7 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
 <br />
 
- ## `Services and Products`
+ ## `Services` and [Products](https://appseed.us/admin-dashboards/open-source/)
 
 - ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
 - ✅ [OpenApi](https://appseed.us/generator/openapi/) - in-browser editor (`free service`)
