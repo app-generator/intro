@@ -27,9 +27,9 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
 <br />
 
-![AppSeed - Automation platform for developers.](https://user-images.githubusercontent.com/51070104/204027900-01741c1e-85d7-4302-b0b8-52f8f2035a92.png) 
+![AppSeed - Automation platform for developers.](https://user-images.githubusercontent.com/51070104/204030603-db09a5f3-41ef-4cc4-8564-07abb9a64f53.png)
 
 <br />
 
 ---
-[AppSeed](https://appseed.us) - Research-oriented StartUp built for developers. 
+[AppSeed](https://appseed.us) - Research and Innovation-oriented StartUp for developers. 
