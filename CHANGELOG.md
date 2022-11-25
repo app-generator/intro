@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.1] 2022-11-25
+### Changes
+
+- Update [OpenAPI Editor](https://appseed.us/generator/openapi/) `v0.0.3`
+  - Now supports `YAML` download
+- [Black Friday](https://appseed.us/discounts/) Campaign is `active`
+  - **75%OFF** Flat `Discount` (all products)
+
 ## [1.0.0] 2022-11-12
 ### Improvements
 
