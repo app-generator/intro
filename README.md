@@ -6,7 +6,9 @@
 
 ## `About` 
 
-**AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/generator/)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. 
+**AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. 
+
+The **[app generator](https://appseed.us/generator/)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. 
 
 > 👉 Read the [full story](https://medium.com/@appseed.us/appseed-2019-status-and-further-steps-7517dab886d4) published on `Medium`
 
