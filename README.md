@@ -12,15 +12,17 @@ The **[app generator](https://appseed.us/generator/)** is an automated workflow 
 
 > 👉 Read the [full story](https://medium.com/@appseed.us/appseed-2019-status-and-further-steps-7517dab886d4) published on `Medium`
 
-The product is self-funded, mainly driven by open-source and the comunity connected to AppSeed via diferrent funnels (Email, Newletter) and Discord 1k+ members).  
+The product is `self-funded`, mainly `driven` by **open-source** and **comunity members** connected to the service via diferrent funnels (`Email`, `Newletter`) and [Discord](https://discord.gg/fZC6hup) (1k+ members).  
 
 <br />
 
- ## Services and Products
+ ## `Services and Products`
 
 - ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
-- ✅ [Developer tools](https://appseed.us/developer-tools/): dynamic services and API generators
-- ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) and [apps](https://appseed.us/apps/)
+- ✅ [OpenApi](https://appseed.us/generator/openapi/) - in-browser editor (`free service`)
+- ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
+- ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) - `free` & `paid` 
+- ✅ [Free Apps](https://appseed.us/apps/free/)
 - 🚀 [Support](https://appseed.us/support/) via `Email` and `Discord`
 
 <br />
