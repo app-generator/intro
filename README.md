@@ -1,6 +1,6 @@
 # [AppSeed](https://appseed.us/)
 
-> **Research and Innovation-oriented StartUp** for developers - Read more about the [team](https://appseed.us/about/) and service [terms](https://appseed.us/terms/). 
+> **Research and Innovation-oriented StartUp** for developers - `Read more` about the [team](https://appseed.us/about/) and service [terms](https://appseed.us/terms/). 
 
 <br />
 
