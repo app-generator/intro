@@ -1,26 +1,21 @@
-# [AppSeed](https://appseed.us/) `Generator`
+# [AppSeed](https://appseed.us/)
+
+> **Research and Innovation-oriented StartUp** built for developers - Read more about the [team](https://appseed.us/about/) and service [terms](https://appseed.us/terms/). 
 
 **AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. The **[app generator](https://appseed.us/generator/)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. 
 
-<br />
+> Services and Products
 
-> Integrated UI Kits
-
-- 👉 [Soft Dashboard](https://appseed.us/generator/soft-ui-dashboard/)
-- 👉 [Material Kit](https://appseed.us/generator/material-kit/)
-- 👉 [Datta Able](https://appseed.us/generator/datta-able/)
-- 👉 **React Kits**: [Horizon UI](https://appseed.us/generator/react/horizon-ui/), [Berry MUI Design](https://appseed.us/generator/react/berry-dashboard/)
+- ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
+- ✅ [Developer tools](https://appseed.us/developer-tools/): dynamic services and API generators
+- ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) and [apps](https://appseed.us/apps/)
+- 🚀 [Support](https://appseed.us/support/) via `Email` and `Discord`
 
 <br />
 
-## Services and Products
-
-- Visual [App Generator](https://appseed.us/generator/) generates React, Vue full-stack web apps in minutes.
-- [Developer tools](https://appseed.us/developer-tools/): dynamic services and API generators
-- Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) and [apps](https://appseed.us/apps/)
-- Free [Support](https://appseed.us) via Email and Discord (`registered users`)
+![AppSeed - Automation platform for developers.](https://user-images.githubusercontent.com/51070104/204027900-01741c1e-85d7-4302-b0b8-52f8f2035a92.png) 
 
 <br />
 
 ---
-[AppSeed Generator](https://appseed.us/generator/) - Built for developers 
+[AppSeed](https://appseed.us) - Research-oriented StartUp built for developers. 
