@@ -32,7 +32,9 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 - ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
 - ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) - `free` & `paid` 
 - ✅ [Free Apps](https://appseed.us/apps/free/) of `Flask`, `Django`, [React](https://appseed.us/apps/react/) and `FastAPI` 
-- ⚙️ [Support](https://appseed.us/support/) via `Email` and `Discord`
+- ⚙️ [Support](https://appseed.us/support/), available in `two layers`: 
+  - `Free`: monday-friday, Email & Discord, 10-18 EET
+  - `PRO` : 24/7 via Email and Discord, [PRO accounts](https://appseed.us/terms/) ONLY  
 
 <br />
 
