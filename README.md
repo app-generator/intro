@@ -22,7 +22,7 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
  ## `Services` and [Products](https://appseed.us/admin-dashboards/open-source/)
 
-- 🎁 **[PRO Accounts](https://appseed.us/terms/)** via `$49/yr` (annual subscription)
+- 🚀 **[PRO Accounts](https://appseed.us/terms/)** via `$49/yr` (annual subscription)
   - **40%OFF** applicable to `all products` & licenses
   - **24/7** fast support via Email and `Discord`
   - **Private Access** to all internal [tools](https://appseed.us/developer-tools/): [OpenAPI Editor](https://appseed.us/generator/openapi/), parsers and `generators`.
@@ -32,7 +32,7 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 - ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
 - ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) - `free` & `paid` 
 - ✅ [Free Apps](https://appseed.us/apps/free/) of `Flask`, `Django`, [React](https://appseed.us/apps/react/) and `FastAPI` 
-- 🚀 [Support](https://appseed.us/support/) via `Email` and `Discord`
+- ⚙️ [Support](https://appseed.us/support/) via `Email` and `Discord`
 
 <br />
 
