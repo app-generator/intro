@@ -12,7 +12,7 @@
 
 **AppSeed** is a platform that uses in-house developed automation tools to cut the manual work usually involved in web development. 
 
-The **[App Generator](https://appseed.us/generator/)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns: MVC, two-tier architecture, SPA ..etc. 
+The **[App Generator](https://appseed.us)** is an automated workflow that consumes flat, lifeless UI Kits and builds starters in different patterns and languages: MVC, two-tier architecture, full-stack,SPA ..etc. 
 
 > 👉 Read the [full story](https://medium.com/@appseed.us/appseed-2019-status-and-further-steps-7517dab886d4) published on `Medium`
 
@@ -22,8 +22,11 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
  ## `Services` and [Products](https://appseed.us/admin-dashboards/open-source/)
 
-- 🎁 **40%OFF** (all products & licenses) via [annual subscripion](https://appseed.us/terms/) **$49**  
-- 🎁 Permanent [Discounts](https://appseed.us/discounts/) and 
+- 🎁 **PRO Accounts** via `$49/yr` (annual subscription)
+  - **40%OFF** applicable to `all products` & licenses
+  - **24/7** fast support via Email and `Discord`
+  - Access to all internal [tools](https://appseed.us/developer-tools/): [OpenAPI Editor](https://appseed.us/generator/openapi/), parsers and `generators`.
+- 🎁 Permanent [Discounts](https://appseed.us/discounts/): `Black PRO`, `Argon BS4 PRO`, `Gradient Able`
 - ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
 - ✅ [OpenApi](https://appseed.us/generator/openapi/) - in-browser editor (`free service`)
 - ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
