@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.2] 2022-11-26
+### Changes
+
+- Annual Subscription Update
+- 🚀 **[PRO Accounts](https://appseed.us/terms/)** via `$49/yr` (annual subscription)
+  - **40%OFF** applicable to `all products` & licenses
+  - **24/7** fast support via Email and `Discord`
+  - **Private Access** to all internal [tools](https://appseed.us/developer-tools/): [OpenAPI Editor](https://appseed.us/generator/openapi/), parsers and `generators`.
+- ⚙️ [Support](https://appseed.us/support/), available in `two layers`: 
+  - `Free`: monday-friday, Email & Discord, 10-18 EET
+  - `PRO`: **24/7** fast support 🚀, [PRO accounts](https://appseed.us/terms/) ONLY    
+
 ## [1.0.1] 2022-11-25
 ### Changes
 
