@@ -22,6 +22,7 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
  ## `Services` and [Products](https://appseed.us/admin-dashboards/open-source/)
 
+- 🎁 Permanent [Discounts](https://appseed.us/discounts/) and **40%OFF** (all products) via [annual subscripion](https://appseed.us/terms/) **$49**  
 - ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
 - ✅ [OpenApi](https://appseed.us/generator/openapi/) - in-browser editor (`free service`)
 - ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
