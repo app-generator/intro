@@ -34,7 +34,7 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 - ✅ [Free Apps](https://appseed.us/apps/free/) of `Flask`, `Django`, [React](https://appseed.us/apps/react/) and `FastAPI` 
 - ⚙️ [Support](https://appseed.us/support/), available in `two layers`: 
   - `Free`: monday-friday, Email & Discord, 10-18 EET
-  - `PRO`: **24/7** via Email and Discord, [PRO accounts](https://appseed.us/terms/) ONLY  
+  - `PRO`: **24/7** fast support 🚀, [PRO accounts](https://appseed.us/terms/) ONLY  
 
 <br />
 
