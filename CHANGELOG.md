@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.3] 2022-11-26
+### Changes
+
+- Pages Updated:
+  - [Service Terms](https://appseed.us/terms/)
+  - User Dashboard 
+
 ## [1.0.2] 2022-11-26
 ### Changes
 
@@ -9,7 +16,7 @@
   - **24/7** fast support via Email and `Discord`
   - **Private Access** to all internal [tools](https://appseed.us/developer-tools/): [OpenAPI Editor](https://appseed.us/generator/openapi/), parsers and `generators`.
 - ⚙️ [Support](https://appseed.us/support/), available in `two layers`: 
-  - `Free`: monday-friday, Email & Discord, 10-18 EET
+  - `Free`: Monday-Friday, Email & Discord, 10-18 EET
   - `PRO`: **24/7** fast support 🚀, [PRO accounts](https://appseed.us/terms/) ONLY    
 
 ## [1.0.1] 2022-11-25
