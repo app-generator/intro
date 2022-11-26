@@ -1,5 +1,11 @@
 # Change Log
 
+## Unreleased 
+### Changes
+
+- Rocket Package (pricing update): `$2499`
+  - More info on [Service Terms](https://appseed.us/terms/) page  
+
 ## [1.0.3] 2022-11-26
 ### Changes
 
