@@ -1,8 +1,11 @@
 # Change Log
 
-## Unreleased 
+## [1.0.4] 2022-11-29
 ### Changes
 
+- [LIVE Deployer](https://appseed.us/go-live/) Updates
+  - The deploy context is loaded from `deployer.json` file
+  - Default values: `NODE_16`, `yarn`
 - Rocket Package (pricing update): `$2499`
   - More info on [Service Terms](https://appseed.us/terms/) page  
 
