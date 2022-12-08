@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.5] 2022-12-08
+### Changes
+
+- [Generator React](https://appseed.us/generator/) `update`:
+  - [React Material Kit](https://appseed.us/generator/material-kit/)
+  - [React Argon Design](https://appseed.us/generator/argon-design/)
+
 ## [1.0.4] 2022-11-29
 ### Changes
 
