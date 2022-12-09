@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.6] 2022-12-09
+### Changes
+
+- New: [React Argon Design PRO](https://appseed.us/product/argon-design-system-pro/full-stack/) `fullstack`
+  - Premium KIT, React, JWT Auth, Full-Stack ready
+- New: [React Argon Design](https://appseed.us/product/argon-design-system/api-server-nodejs/react/)
+  - Open-Source, React, JWT Auth, Full-Stack ready
+
 ## [1.0.5] 2022-12-08
 ### Changes
 
