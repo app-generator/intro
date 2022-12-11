@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] 2022-12-11
+### Changes
+
+- New partner: [UPDIVISION](https://appseed.us/agency/updivision/)
+  - **Custom web & mobile** Apps using `Laravel`, `Vue`, `Fullstack`
+
 ## [1.0.6] 2022-12-09
 ### Changes
 
