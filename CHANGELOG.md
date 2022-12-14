@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.8] 2022-12-15
+### Changes
+
+- New [PROMO Campaign](https://appseed.us/discounts/): `Boost 2023`
+  - **50%OFF**, all products & `licenses`
+
 ## [1.0.7] 2022-12-11
 ### Changes
 
