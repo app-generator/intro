@@ -4,7 +4,9 @@
 
 <br />
 
-[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+## 🎁 `PROMO` [Campaign Boost 2023](https://appseed.us/discounts/) `75%OFF` (all products & licenses)
+
+[![Campaign Boost 2023 - AppSeed Winter PROMO, 75%OFF (all products & licenses)](https://user-images.githubusercontent.com/51070104/210043076-17cf8879-1644-4c49-8f18-e268b215bd7f.jpg)](https://appseed.us/discounts/)
 
 <br />
 
