@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.9] 2022-12-30
+### Changes
+
+- New [PROMO Campaign](https://appseed.us/discounts/): `Boost 2023`
+  - **75%OFF**, all products & `licenses`
+- Annual Subscription updates:
+  - `$19/year`
+  - Permanent Discount: `30%`  
+
 ## [1.0.8] 2022-12-15
 ### Changes
 
