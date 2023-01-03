@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.10] 2023-01-03
+### Changes
+
+- [App Generator](https://appseed.us/generator/) update to `1.0.2`
+  - `Flask` Codebase, `DBMS` improvement
+    - `Silent fallback` to **SQLite**
+
 ## [1.0.9] 2022-12-30
 ### Changes
 
