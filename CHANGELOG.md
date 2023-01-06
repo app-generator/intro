@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.11] 2023-01-06
+### Changes
+
+- New Design & Products: `Berry` (free & PRO)
+- [Flask Berry](https://appseed.us/product/berry-dashboard/flask/) `free version`
+- [Flask Berry PRO](https://appseed.us/product/berry-dashboard-pro/flask/) `premium version`
+- [Django Berry](https://appseed.us/product/berry-dashboard/django/) `free version`
+- [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/) `free version`
+
 ## [1.0.10] 2023-01-03
 ### Changes
 
