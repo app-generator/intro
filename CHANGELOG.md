@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.12] 2023-01-07
+### Changes
+
+- New Product: [Django Argon2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/) - `Bootstrap 5 Premium Starter)
+- ✅ `Design`: [Django Theme Argon2](https://github.com/app-generator/django-admin-argon2-pro) - `PRO Version`
+- ✅ `Sections` covered by the design:
+  - ✅ **Admin section** (reserved for superusers)
+  - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
+  - ✅ **All Pages** available in for ordinary users 
+- ✅ `Docker`, Deployment: 
+  - 🚀 `CI/CD` flow via `Render`
+
 ## [1.0.11] 2023-01-06
 ### Changes
 
