@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.13] 2023-01-20
+### Changes
+
+- Update [Discounts](https://appseed.us/discounts/) Page
+- [Django Atlantis DARK PRO](https://appseed.us/product/atlantis-dark-pro/django/)
+  - Theme-able design (via PIP)
+  - CI/CD via Render
+
 ## [1.0.12] 2023-01-07
 ### Changes
 
