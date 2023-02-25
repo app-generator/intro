@@ -1,11 +1,17 @@
 # Change Log
 
+## [1.0.15] 2023-02-25
+### Changes
+
+- Integrate [Sticky Media](https://www.npmjs.com/package/sticky-media)
+  - Simple `Vanilla JS` library for Sticky Content (YouTube videos) 
+
 ## [1.0.14] 2023-02-24
 ### Changes
 
 - ✅ New [PROMO Campaign](https://appseed.us/discounts/): `Spring Boost`
   - **50%OFF**, all products & `licenses`
-  
+
 ## [1.0.13] 2023-01-20
 ### Changes
 
