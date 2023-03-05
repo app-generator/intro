@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.16] 2023-03-05
+### Changes
+
+- Update Pricing - [Terms Page](https://appseed.us/terms/)
+  - `CI/CD Package` - **$499**/yr/app
+  - `Rocket Package` - **$1999**
+
 ## [1.0.15] 2023-02-25
 ### Changes
 
