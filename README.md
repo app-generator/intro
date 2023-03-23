@@ -42,21 +42,20 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
 <br />
 
-## `Latest Starter` [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/) 
+## `Latest Starter` [Django Soft Tailwind CSS PRO](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
 
-**Django** starter styled with **[Berry Dashboard PRO](https://appseed.us/product/berry-dashboard-pro/django/)**, a premium `Bootstrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+Premium **Django Dashboard** provided by `AppSeed` op top of a modern design. 
+Designed for those who like bold elements and beautiful websites, **[Soft UI Dashboard](https://appseed.us/product/soft-dashboard-tailwind-pro/django/django/)** is ready to help you create stunning websites and webapps. **Soft UI Dashboard** is built with over 100+ frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
-- ✅ `BS5 Design`: Django Theme Berry - `PRO Version`
-- ✅ `Sections` covered by the design:
-  - ✅ **Admin section** (reserved for superusers)
-  - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
-  - ✅ **All Pages** available in for ordinary users 
+- ✅ Design: [Soft Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-pro-tailwind?AFFILIATE=128200) by `Creative-Tim`
+- ✅ Styling: `Tailwind CSS`
+- ✅ `Up-to-date dependencies`
+- ✅ `Session-Based authentication`, Forms validation
+- ✅ `Admin Section` Styled (reserved for superusers)
 - ✅ `Docker`
-- 🚀 `Deployment`
-  - `CI/CD` flow via `Render`
+- 🚀 `CI/CD` flow via `Render`
 
-![Berry Bootstrap 5 PRO - Premium Template Django Template.](https://user-images.githubusercontent.com/51070104/210833058-be0b3e87-4f2b-4765-b84d-3795ba03c6a1.jpg)
+![Soft UI Dashboard PRO - Tailwind, premium starter by AppSeed and Creative-tim](https://user-images.githubusercontent.com/51070104/227124855-012a9aaa-7556-4e7e-95ec-51c2b50c62d7.png)
 
 <br />
 

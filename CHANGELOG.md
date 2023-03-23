@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.17] 2023-03-23
+### Changes
+
+- New Product: [Django Soft Tailwind CSS PRO](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
+  - `Tailwind` design, `Docker`, `CI/CD` via Render
+- Updated [Django Soft Tailwind CSS](https://appseed.us/product/soft-dashboard-tailwind/django/) `free product`
+  - Design Updated, improved codebase  
+  
 ## [1.0.16] 2023-03-05
 ### Changes
 
