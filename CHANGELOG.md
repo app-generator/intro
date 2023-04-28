@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.18] 2023-04-28
+### Changes
+
+- Added [Custom Development](https://appseed.us/custom-development/) Page
+
 ## [1.0.17] 2023-03-23
 ### Changes
 
@@ -7,7 +12,7 @@
   - `Tailwind` design, `Docker`, `CI/CD` via Render
 - Updated [Django Soft Tailwind CSS](https://appseed.us/product/soft-dashboard-tailwind/django/) `free product`
   - Design Updated, improved codebase  
-  
+
 ## [1.0.16] 2023-03-05
 ### Changes
 
