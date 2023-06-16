@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.19] 2023-06-11
+### Changes
+
+- CFG, read PROMO from ENV
+- PROMO Banner: Disable particles
+- Fix Navigation Link (minor)
+
 ## [1.0.18] 2023-04-28
 ### Changes
 
