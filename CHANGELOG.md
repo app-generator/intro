@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.20] 2023-06-16
+### Changes
+
+- UPD Categories: 
+  - [Soft UI Dashboard PRO](http://localhost:5001/product/soft-ui-dashboard-pro/)
+  - [Gradient Able PRO](https://appseed.us/product/gradient-able-pro/)
+  - [Argon Dashboard](https://appseed.us//product/argon-dashboard/)
+  - [Argon Dashboard PRO](https://appseed.us/product/argon-dashboard-pro/)
+  - [Argon Dashboard BS5 PRO](https://appseed.us/product/argon-dashboard2-pro/)
+  - [Black Dashboard](https://appseed.us/product/black-dashboard/)
+  - [Black Dashboard PRO](https://appseed.us/product/black-dashboard-pro/)
+
 ## [1.0.19] 2023-06-11
 ### Changes
 
