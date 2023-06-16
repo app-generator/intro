@@ -4,7 +4,7 @@
 ### Changes
 
 - UPD Categories: 
-  - [Soft UI Dashboard PRO](http://localhost:5001/product/soft-ui-dashboard-pro/)
+  - [Soft UI Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/)
   - [Gradient Able PRO](https://appseed.us/product/gradient-able-pro/)
   - [Argon Dashboard](https://appseed.us//product/argon-dashboard/)
   - [Argon Dashboard PRO](https://appseed.us/product/argon-dashboard-pro/)
