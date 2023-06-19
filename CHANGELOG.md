@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.21] 2023-06-19
+### Changes
+
+- NEW: [Flask Argon BS5 PRO](https://appseed.us/product/argon-dashboard2-pro/flask/)
+  - LIVE Demo: [Flask Argon BS5 PRO - Demo](https://flask-argon-dash2-pro.onrender.com/)
+- UPD: [Django Argon BS5 PRO](https://appseed.us/product/argon-dashboard2-pro/django/)
+  - LIVE Demo: [Django Argon BS5 PRO - Demo](https://django-argon-dash2-pro.onrender.com/) 
+
 ## [1.0.20] 2023-06-16
 ### Changes
 
