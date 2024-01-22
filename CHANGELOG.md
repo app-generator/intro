@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.22] 2023-06-19
+### Changes
+
+- Update [Support](https://appseed.us/support/) Page
+- [PRO Accounts](https://appseed.us/terms/#section-pro) - Update Pricing 
+  - `$99/month`
+
 ## [1.0.21] 2023-06-19
 ### Changes
 
