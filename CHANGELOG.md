@@ -1,6 +1,26 @@
 # Change Log
 
-## [1.0.22] 2023-06-19
+## [1.0.23] 2024-02-05
+### Changes
+
+- Updated Products:
+  - [Datta Able Django PRO](https://appseed.us/product/datta-able-pro/django/)
+  - [Django Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)
+  - [Django Volt Dashboard PRO](https://appseed.us/product/volt-dashboard-pro/django/)
+  - [Django Material Dashboard2 PRO](https://appseed.us/product/material-dashboard2-pro/django/)
+  - [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/)
+  - [Django Modernize PRO](https://appseed.us/product/modernize-dashboard-pro/django/)
+- New Features (for all the above)
+  - Update Docker
+  - New Apps:
+    - Charts
+    - Api
+    - Celery
+    - File manager
+    - DataTables 
+    - i18n (internationalization)    
+
+## [1.0.22] 2024-02-05
 ### Changes
 
 - Update [Support](https://appseed.us/support/) Page
