@@ -42,22 +42,5 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
 <br />
 
-### `New Starter` [Django Soft Tailwind CSS PRO](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
-
-Premium **Django Dashboard** provided by `AppSeed` op top of a modern design. 
-Designed for those who like bold elements and beautiful websites, **[Soft UI Dashboard](https://appseed.us/product/soft-dashboard-tailwind-pro/django/django/)** is ready to help you create stunning websites and webapps. **Soft UI Dashboard** is built with over 100+ frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
-
-- ✅ Design: [Soft Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-pro-tailwind?AFFILIATE=128200) by `Creative-Tim`
-- ✅ Styling: `Tailwind CSS`
-- ✅ `Up-to-date dependencies`
-- ✅ `Session-Based authentication`, Forms validation
-- ✅ `Admin Section` Styled (reserved for superusers)
-- ✅ `Docker`
-- 🚀 `CI/CD` flow via `Render`
-
-![Soft UI Dashboard PRO - Tailwind, premium starter by AppSeed and Creative-tim](https://user-images.githubusercontent.com/51070104/227124855-012a9aaa-7556-4e7e-95ec-51c2b50c62d7.png)
-
-<br />
-
 ---
 [AppSeed](https://appseed.us) - `Research and Innovation-oriented StartUp` for developers. 
