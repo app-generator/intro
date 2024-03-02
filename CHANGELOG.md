@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.24] 2024-03-02
+### Changes
+
+- Update [Django Material PRO](https://appseed.us/product/material-dashboard-pro/django/)
+  - Update Docker
+  - Charts
+  - Api
+  - Celery
+  - File manager
+  - DataTables 
+  - i18n (internationalization)    
+
 ## [1.0.23] 2024-02-05
 ### Changes
 
