@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.0.25] 2024-03-02
+### Changes
+
+- Update [Django Argon Dashboard2 PRO](https://appseed.us/product/argon-dashboard2-pro/django/)
+  - Update Docker
+  - Charts
+  - Api
+  - Celery
+  - File manager
+  - DataTables 
+  - i18n (internationalization)  
+
 ## [1.0.24] 2024-03-02
 ### Changes
 
