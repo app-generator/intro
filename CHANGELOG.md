@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.26] 2024-03-11
+### Changes
+
+- Update [Datta Able Django PRO](https://appseed.us/product/datta-able-pro/django/)
+  - Fixes:
+    - dataTables layout
+  - Added Automatized e2e Tests
+    - Linux
+    - Windows
+
 ## [1.0.25] 2024-03-02
 ### Changes
 
