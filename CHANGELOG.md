@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.28] 2024-03-26
+### Changes
+
+- [HOMEpage](https://appseed.us) Updated 
+- New Products (Rocket suite):
+  - [Django Rocket](https://appseed.us/product/rocket/django/) - `Product page`
+  - [Django Rocket PRO](https://appseed.us/product/rocket-pro/django/) - `PRO Version`
+  - [Django eCommerce](https://appseed.us/product/rocket-ecommerce/django/) - `Premium Starter`  
+
 ## [1.0.27] 2024-03-16
 ### Changes
 
