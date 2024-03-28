@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.30] 2024-03-28
+### Changes
+
+- Updated Products:
+  - [Django Datta Django PRO](https://appseed.us/product/datta-able-pro/django/)
+  - [Django Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)
+  - [Django Volt Dashboard PRO](https://appseed.us/product/volt-dashboard-pro/django/)
+  - [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/)
+
 ## [1.0.29] 2024-03-26
 ### Changes
 
