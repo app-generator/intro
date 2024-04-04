@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.31] 2024-04-04
+### Changes
+
+- NEW Products:
+  - [Django AdminLTE PRO](https://appseed.us/product/adminlte-pro/django/) - `Product page`
+  - [Django AdminLTE PRO](https://django-adminlte-pro.onrender.com) - `LIVE Demo`
+  - [Flask Rocket PRO](https://appseed.us/product/rocket-pro/flask/) - `Product page`
+  - [Flask Rocket PRO](https://rocket-flask-pro.onrender.com) - `LIVE Demo`
+
+
 ## [1.0.30] 2024-03-28
 ### Changes
 
