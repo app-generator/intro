@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.32] 2024-04-06
+### Changes
+
+- Update [HOMEpage](https://appseed.us) 
+- Update [Rocket eCommerce](https://appseed.us/product/rocket-ecommerce/django/) 
+  - adding FIGMA 
+  
 ## [1.0.31] 2024-04-04
 ### Changes
 
