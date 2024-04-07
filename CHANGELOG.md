@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.33] 2024-04-07
+### Changes
+
+- Update [HOMEpage](https://appseed.us) 
+- Update [Rocket Flask PRO](https://appseed.us/product/rocket-pro/flask/)
+
 ## [1.0.32] 2024-04-06
 ### Changes
 
