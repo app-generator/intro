@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.34] 2024-04-11
+### Changes
+
+- Update [Custom Development Services](https://appseed.us/custom-development/) page
+  - Coding MVPs, Custom software solutions, improving legacy products
+  - CI/CD Solution and Docker Scripts
+  - Go LIVE assistance for DO, AWS, Azure, and GCP
+
 ## [1.0.33] 2024-04-07
 ### Changes
 
