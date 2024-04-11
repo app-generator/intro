@@ -2,7 +2,7 @@
 
 > **Research and Innovation-oriented StartUp** for Developers and Companies - Used by 8k+ registered Users. 
 
-`Read more` about the [team](https://appseed.us/about/), get [support](https://appseed.us/support/), or order a [custom development](https://appseed.us/custom-development/) sprint for your MVP or fully coded service. 
+`Read more` about the [team](https://appseed.us/about/), get [support](https://appseed.us/support/), or order a [custom development](https://appseed.us/custom-development/) sprint for MVPs and fully coded services. 
 
 <br />
 
