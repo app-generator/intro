@@ -1,6 +1,8 @@
 # [AppSeed](https://appseed.us/)
 
-> **Research and Innovation-oriented StartUp** for developers - `Read more` about the [team](https://appseed.us/about/) and service [terms](https://appseed.us/terms/). 
+> **Research and Innovation-oriented StartUp** for Developers and Companies - Used by 8k+ registered Users. 
+
+`Read more` about the [team](https://appseed.us/about/), get [support](https://appseed.us/support/), or order a [custom development](https://appseed.us/custom-development/) sprint for your MVP or fully coded service. 
 
 <br />
 
@@ -12,7 +14,7 @@ The **[App Generator](https://appseed.us)** is an automated workflow that consum
 
 > 👉 Read the [full story](https://medium.com/@appseed.us/appseed-2019-status-and-further-steps-7517dab886d4) published on `Medium`
 
-The product is `self-funded`, mainly `driven` by **open-source** and **comunity members** connected to the service via diferrent funnels (`Email`, `Newletter`) and [Discord](https://discord.gg/fZC6hup) (1k+ members).  
+The product is `self-funded`, mainly `driven` by **open-source** and **community members** connected to the service via different funnels (`Email`, `Newsletter`) and [Discord](https://discord.gg/fZC6hup) (2k+ members).  
 
 <br />
 
@@ -22,19 +24,17 @@ The product is `self-funded`, mainly `driven` by **open-source** and **comunity 
 
  ## `Services` and [Products](https://appseed.us/admin-dashboards/open-source/)
 
-- 🚀 **[PRO Accounts](https://appseed.us/terms/)** (monthly subscription)
-  - **50%OFF** applicable to `all products` & licenses
-  - **24/7** fast support via Email and `Discord`
-  - **Private Access** to all internal [tools](https://appseed.us/developer-tools/): [OpenAPI Editor](https://appseed.us/generator/openapi/), parsers and `generators`.
-- 🎁 Permanent [Discounts](https://appseed.us/discounts/): `Black PRO`, `Argon BS4 PRO`, `Gradient Able`
-- ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
-- ✅ [OpenApi](https://appseed.us/generator/openapi/) - in-browser editor (`free service`)
-- ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
 - ✅ Pre-Built [admin dashboards](https://appseed.us/admin-dashboards/open-source/) - `free` & `paid` 
 - ✅ [Free Apps](https://appseed.us/apps/free/) of `Flask`, `Django`, [React](https://appseed.us/apps/react/) and `FastAPI` 
+- ✅ [App Generator](https://appseed.us/generator/) - build full-stack apps (`free service`)
+- ✅ [Developer tools](https://appseed.us/developer-tools/): `Dynamic Services` and [API generators](https://appseed.us/developer-tools/django-dynamic-api/)
+- 🚀 [Custom Development Services](https://appseed.us/custom-development/)
+  - Coding MVPs, Custom software solutions, improving legacy products
+  - CI/CD Solution and Docker Scripts
+  - Go LIVE assistance for DO, AWS, Azure, and GCP
 - ⚙️ Two tiers [Support](https://appseed.us/support/): 
   - `Free`: Monday-Friday, Email & Discord, 10-18 EET
-  - `PRO`: **24/7** fast support 🚀, [PRO accounts](https://appseed.us/terms/) ONLY  
+  - `PRO`: **24/7** fast support , [PRO accounts](https://appseed.us/terms/) ONLY  
 
 <br />
 
@@ -71,4 +71,4 @@ The Django boilerplate has all you need to build your SaaS, Analytics tool, or a
 <br />
 
 ---
-[AppSeed](https://appseed.us) - `Research and Innovation-oriented StartUp` for developers. 
+[AppSeed](https://appseed.us) - **Research and Innovation-oriented StartUp** for Developers and Companies 
