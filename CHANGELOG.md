@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.36] 2024-04-20
+### Changes
+
+- Update [Terms](https://appseed.us/terms/)
+  - Added Ci-Cd Assistance package for AWS, DO, Azure. 
+
 ## [1.0.35] 2024-04-17
 ### Changes
 
