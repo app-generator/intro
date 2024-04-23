@@ -1,10 +1,15 @@
 # Change Log
 
+## [1.0.37] 2024-04-23
+### Changes
+
+- [Rocket eCommerce](https://appseed.us/product/rocket-ecommerce/django/) - Update License
+
 ## [1.0.36] 2024-04-20
 ### Changes
 
 - Update [Terms](https://appseed.us/terms/)
-  - Added [CI-Cd Assistance package for AWS, DO, and Azure](https://deploypro.dev/). 
+  - Added [CI-Cd Assistance package for AWS, DO, and Azure](https://deploypro.dev/).
 
 ## [1.0.35] 2024-04-17
 ### Changes
