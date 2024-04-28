@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.38] 2024-04-28
+### Changes
+
+- Update [Django CoreUI](https://appseed.us/product/coreui/django/)
+  - Demo LINK: [CoreUI Django](https://django-coreui.onrender.com/)
+
 ## [1.0.37] 2024-04-23
 ### Changes
 
