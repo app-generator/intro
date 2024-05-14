@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.39] 2024-05-14
+### Changes
+
+- Update [Datta Able PRO Flask](https://appseed.us/product/datta-able-pro/flask/) - Added `Apps`
+  - DataTables, API, Charts, Media Files Manager
+  - DEMO: https://flask-datta-pro.onrender.com/
+
 ## [1.0.38] 2024-04-28
 ### Changes
 
